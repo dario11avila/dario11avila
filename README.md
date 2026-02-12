@@ -32,6 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dario11avila/dario11avila/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dario11avila/output/snake.svg" alt="Snake animation" />
 
 ###
