@@ -30,8 +30,3 @@
   <img src="https://streak-stats.demolab.com?user=dario11avila&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/dario11avila/output/snake.svg" alt="Snake animation" />
-
-###
